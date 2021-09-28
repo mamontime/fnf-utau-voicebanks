@@ -1,6 +1,6 @@
 # fnf-utau-voicebanks
 
-**YES I AM THE SAME PERSON WHO MADE THE SOLAZAR AND NIKUSA UTAUS. while i am allowed to post stuff involving their voicebanks, PLEASE DO NOT ASK ME TO DISTRIBUTE THEM IN ORDER TO RESPECT SUGARRATIO'S WISHES AND MY WISHES. THE GITHUB WILL BE UPDATED WITH THEIR UTAUS UPLOADED FOR THE PUBLIC ONCE THE DEMO IS RELEASED.**
+**YES I AM THE SAME PERSON WHO MADE THE SOLAZAR AND NIKUSA UTAUS. while sugarratio allowed me to post stuff involving their voicebanks, PLEASE DO NOT ASK ME TO DISTRIBUTE THEM IN ORDER TO RESPECT OUR WISHES. THE GITHUB WILL BE UPDATED WITH THEIR UTAUS UPLOADED FOR THE PUBLIC ONCE THE DEMO IS RELEASED.**
 
 if ur using the fnf utaus for anything, plz credit me with the name mamon/sebastian, this github link, and my socials (twitter.com/mamonksnk, mamondebeste on youtube)
 
