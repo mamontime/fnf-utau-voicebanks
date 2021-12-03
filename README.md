@@ -1,6 +1,6 @@
 # fnf-utau-voicebanks
 
-**UPDATE: NIKUSA AND SOLAZAR CUSTOM UTAU/CHROMATICS ARE RELEASED**
+**UPDATE: NIKUSA AND SOLAZAR CUSTOM UTAU/CHROMATICS ARE RELEASED. THEY ARE CUSTOM AND YOU ARE FREE TO USE AS LONG AS YOU CREDIT ME**
 
 if ur using the fnf utaus for anything, plz credit me with the name mamon/sebastian, this github link, and my socials (twitter.com/mamonksnk, mamondebeste on youtube)
 
